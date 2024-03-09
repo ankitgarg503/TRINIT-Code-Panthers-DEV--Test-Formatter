@@ -9,9 +9,9 @@
   > Member-1: Aryan, aryan.221cs210@nitk.edu.in
 
 
-  > Member-2: Ankit, 
+  > Member-2: Ankit, ankitgarg3738@gmail.com
 
-  > Member-3: Abhishek
+  > Member-3: Abhishek, abhishek003000@gmail.com
 
 </details>
 
@@ -35,6 +35,7 @@
   <summary>Detail</summary>
 <br>
 > First of all initialise your XAMPP. If MYSQL Database is not running then try changing its port to 3308 or 3306 whichever works [especially in MAC's].<br>
+> Add your project related files with folder named cee [or something else] in htdocs folder of XAMPP.
 > After that go to your browser and open phpmyadmin using localhost. There create a new schema and import the database.sql file.<br>
 > After that using various commands like localhost/name the website pages can be accessed.<br>
 > Here localhost/cee is for the frontend.<br>
