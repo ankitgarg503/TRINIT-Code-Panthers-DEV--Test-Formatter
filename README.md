@@ -5,12 +5,12 @@
   > NIT
 
 
-  > Member-1: Aryan, aryan.221cs210@nitk.edu.in
+  > Member-1: Aryan, aryan.221cs210@nitk.edu.in, aryankundu904@gmail.com
 
 
   > Member-2: Ankit, ankitgarg3738@gmail.com
 
-  > Member-3: Abhishek, abhishek003000@gmail.com
+  > Member-3: Abhishek, abhishek003000@gmail.com, abhishek.224ca002@nitk.edu.in
 
 </details>
 
@@ -28,6 +28,7 @@ https://drive.google.com/file/d/1EvtivCA5HorleVO3McENTDAlIKtTnbPg/view?usp=shari
 
 > Here we are using XAMPP as a free and open-source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in the PHP and Perl programming languages.
 <br>
+
 > HTML,CSS,JAVASCRIPT,PHP,SQL
 </details>
 
@@ -38,12 +39,13 @@ https://ankitgarg503.github.io/Demo-Project/
 <details>
   <summary>Detail</summary>
 <br>
-> First of all initialise your XAMPP. If MYSQL Database is not running then try changing its port to 3308 or 3306 whichever works [especially in MAC's].<br>
-> Add your project related files with folder named cee [or something else] in htdocs folder of XAMPP.
-> After that go to your browser and open phpmyadmin using localhost. There create a new schema and import the database.sql file.<br>
-> After that using various commands like localhost/name the website pages can be accessed.<br>
-> Here localhost/cee is for the frontend.<br>
-> localhost/cee/adminpanel is for accessing admin module. Also it can be accessed from frontend.<br>
+  
+- First of all initialise your XAMPP. If MYSQL Database is not running then try changing its port to 3308 or 3306 whichever works [especially in MAC's].<br>
+- Add your project related files with folder named cee [or something else] in htdocs folder of XAMPP.
+- After that go to your browser and open phpmyadmin using localhost. There create a new schema and import the database.sql file.<br>
+- After that using various commands like localhost/name the website pages can be accessed.<br>
+- Here localhost/cee is for the frontend.<br>
+- localhost/cee/adminpanel is for accessing admin module. Also it can be accessed from frontend.<br>
 
 
 </details>
@@ -171,9 +173,27 @@ https://ankitgarg503.github.io/Demo-Project/
 
 
 
+
 </details>
 
 
+# Features Explained:<br>
+
+<details>
+  <summary>Detail</summary>
+<br>
+
+- We are using one free source API to extract text from any pdf or picture, from which required questions and options are selected.
+- The main feature of our project is the we can first of all add examinee who are supposed to give exams, including their password.
+- We will be adding courses for which we want our exams.
+- While adding exams we will specify all details like no. of questions displayed on screen at a time, total time given, for overall and for specific question provided with four options and a correct one.
+- The admin can edit each question seperately and also there is a preview of exam like which questions are given.
+- The performace analysis can also be seen, either by test in which all users attempting a test will be shown, with different colors according to performace e.g red for bad performance. Also analysis is shown for overall users wise, so that they can compare, it is a type of leaderboard
+- It can be used by institutes to take CBT tests for students.
+- While the student is attempting a test he can see a timer, and immediately after test correct answers and users' answer will be shown along with marks.
+- There is also a feedback system, which will be sent back to the admin. If a student wants to send feedback anonymously there is also a feature to do that.
+- In both user panel and admin panel there is a settings icon using which we can customise our UI like colors of different sections of window and whether to show or hide a particular part of window.
+</details>
 
 
 
