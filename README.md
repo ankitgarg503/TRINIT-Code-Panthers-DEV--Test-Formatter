@@ -18,7 +18,8 @@
 <br>
 https://drive.google.com/file/d/1EvtivCA5HorleVO3McENTDAlIKtTnbPg/view?usp=sharing
 
-
+# PPT Link:<br>
+https://docs.google.com/presentation/d/1w_mKA75St9Y0zyKzj6idTkiwViK3rXMP/edit?usp=sharing&ouid=115119017598235720578&rtpof=true&sd=true
 
 # Prerequisites:<br>
 
@@ -26,10 +27,11 @@ https://drive.google.com/file/d/1EvtivCA5HorleVO3McENTDAlIKtTnbPg/view?usp=shari
   <summary>Detail</summary>
 <br>
 
+
 > Here we are using XAMPP as a free and open-source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in the PHP and Perl programming languages.
 <br>
 
-> HTML,CSS,JAVASCRIPT,PHP,SQL
+> HTML,CSS,JavaScript,Bootstrap,jQuery,PHP,SQL
 </details>
 
 # Website Link
